@@ -1,0 +1,8 @@
+[12/28/2016 4:15:28 AM][                  Main Program] String was not recognized as a valid DateTime.
+[05/01/2016 4:22:17 AM][            SendAutomatedEmail] The remote certificate is invalid according to the validation procedure.
+[05/01/2016 4:22:17 AM][            SendAutomatedEmail] Failed sending email to :  rgopinath.chandran@gmail.com
+[05/01/2016 4:22:38 AM][            SendAutomatedEmail] The remote certificate is invalid according to the validation procedure.
+[05/01/2016 4:22:38 AM][            SendAutomatedEmail] Failed sending email to :  vivekrm60@gmail.com
+[05/01/2016 4:22:48 AM][          SendEmailOnErrorCase] Column 'TAXFILINGDate' does not belong to table .
+[05/01/2016 4:22:48 AM][          SendEmailOnErrorCase] Failed sending email to :  vivekrm60@gmail.com
+[03/01/2017 1:04:35 AM][                  Main Program] Column 'FinancialYearEnd' does not belong to table Table.

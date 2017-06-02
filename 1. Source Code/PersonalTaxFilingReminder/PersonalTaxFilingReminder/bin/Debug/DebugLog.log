@@ -1,0 +1,247 @@
+[12/28/2016 5:17:43 AM][Main Program] Starting Program
+[12/28/2016 5:17:43 AM][Main Program] Before Getting the Customer details
+[12/28/2016 5:17:43 AM][GetCardCode()] Starting Function 
+[12/28/2016 5:17:43 AM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[12/28/2016 5:17:43 AM][GetCardCode()] Completed With SUCCESS 
+[12/28/2016 5:17:43 AM][Main Program] After Getting the Customer details
+[12/28/2016 5:17:43 AM][CheckDuplicateMailSending] Starting Function 
+[12/28/2016 5:17:43 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[12/28/2016 5:17:43 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/28/2016 5:17:43 AM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/28/2016 5:17:43 AM][SendAutomatedEmail] Sarting function
+[12/28/2016 5:17:43 AM][SendAutomatedEmail] Setting SMTP properties
+[12/28/2016 5:17:43 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/28/2016 5:17:43 AM][CreateDefaultMailMessage] Sarting function
+[12/28/2016 5:17:43 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/28/2016 5:17:43 AM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/28/2016 5:17:43 AM][SendAutomatedEmail] Sending Email Message
+[12/28/2016 5:17:43 AM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/28/2016 5:17:45 AM][SendAutomatedEmail] Function completed with Success
+[12/28/2016 5:17:45 AM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/28/2016 5:17:45 AM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/28/2016 5:17:45 AM][InsertEmailLog] Starting Function 
+[12/28/2016 5:17:45 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[12/28/2016 5:17:45 AM][InsertEmailLog] Completed With SUCCESS 
+[12/28/2016 5:17:45 AM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/28/2016 5:17:45 AM][CheckDuplicateMailSending] Starting Function 
+[12/28/2016 5:17:45 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[12/28/2016 5:17:45 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/28/2016 5:17:45 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/28/2016 5:17:45 AM][SendAutomatedEmail] Sarting function
+[12/28/2016 5:17:45 AM][SendAutomatedEmail] Setting SMTP properties
+[12/28/2016 5:17:45 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/28/2016 5:17:45 AM][CreateDefaultMailMessage] Sarting function
+[12/28/2016 5:17:45 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/28/2016 5:17:45 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/28/2016 5:17:45 AM][SendAutomatedEmail] Sending Email Message
+[12/28/2016 5:17:45 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/28/2016 5:17:48 AM][SendAutomatedEmail] Function completed with Success
+[12/28/2016 5:17:48 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/28/2016 5:17:48 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/28/2016 5:17:48 AM][InsertEmailLog] Starting Function 
+[12/28/2016 5:17:48 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[12/28/2016 5:17:48 AM][InsertEmailLog] Completed With SUCCESS 
+[12/28/2016 5:17:48 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/28/2016 5:17:48 AM][Main Program] Ending Program
+[12/28/2016 5:18:34 AM][Main Program] Starting Program
+[12/28/2016 5:18:34 AM][Main Program] Before Getting the Customer details
+[12/28/2016 5:18:34 AM][GetCardCode()] Starting Function 
+[12/28/2016 5:18:34 AM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[12/28/2016 5:18:34 AM][GetCardCode()] Completed With SUCCESS 
+[12/28/2016 5:18:34 AM][Main Program] After Getting the Customer details
+[12/28/2016 5:18:34 AM][CheckDuplicateMailSending] Starting Function 
+[12/28/2016 5:18:34 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[12/28/2016 5:18:34 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/28/2016 5:18:34 AM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/28/2016 5:18:34 AM][SendAutomatedEmail] Sarting function
+[12/28/2016 5:18:34 AM][SendAutomatedEmail] Setting SMTP properties
+[12/28/2016 5:18:34 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/28/2016 5:18:34 AM][CreateDefaultMailMessage] Sarting function
+[12/28/2016 5:18:34 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/28/2016 5:18:34 AM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/28/2016 5:18:34 AM][SendAutomatedEmail] Sending Email Message
+[12/28/2016 5:18:34 AM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/28/2016 5:18:37 AM][SendAutomatedEmail] Function completed with Success
+[12/28/2016 5:18:37 AM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/28/2016 5:18:37 AM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/28/2016 5:18:37 AM][InsertEmailLog] Starting Function 
+[12/28/2016 5:18:37 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[12/28/2016 5:18:37 AM][InsertEmailLog] Completed With SUCCESS 
+[12/28/2016 5:18:37 AM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/28/2016 5:18:37 AM][CheckDuplicateMailSending] Starting Function 
+[12/28/2016 5:18:37 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[12/28/2016 5:18:37 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/28/2016 5:18:37 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/28/2016 5:18:37 AM][SendAutomatedEmail] Sarting function
+[12/28/2016 5:18:37 AM][SendAutomatedEmail] Setting SMTP properties
+[12/28/2016 5:18:37 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/28/2016 5:18:37 AM][CreateDefaultMailMessage] Sarting function
+[12/28/2016 5:18:37 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/28/2016 5:18:37 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/28/2016 5:18:37 AM][SendAutomatedEmail] Sending Email Message
+[12/28/2016 5:18:37 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/28/2016 5:18:39 AM][SendAutomatedEmail] Function completed with Success
+[12/28/2016 5:18:39 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/28/2016 5:18:39 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/28/2016 5:18:39 AM][InsertEmailLog] Starting Function 
+[12/28/2016 5:18:39 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[12/28/2016 5:18:39 AM][InsertEmailLog] Completed With SUCCESS 
+[12/28/2016 5:18:39 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/28/2016 5:18:39 AM][Main Program] Ending Program
+[03/01/2017 12:23:52 PM][Main Program] Starting Program
+[03/01/2017 12:23:52 PM][Main Program] Before Getting the Customer details
+[03/01/2017 12:23:52 PM][GetCardCode()] Starting Function 
+[03/01/2017 12:23:52 PM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[03/01/2017 12:23:52 PM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:23:52 PM][Main Program] After Getting the Customer details
+[03/01/2017 12:23:52 PM][Main Program] Current date 03/01/2017 doesn't match the reminder date 03/15/2017 to send email
+[03/01/2017 12:23:52 PM][Main Program] Ending Program
+[03/01/2017 12:24:11 PM][Main Program] Starting Program
+[03/01/2017 12:24:11 PM][Main Program] Before Getting the Customer details
+[03/01/2017 12:24:12 PM][GetCardCode()] Starting Function 
+[03/01/2017 12:24:12 PM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[03/01/2017 12:24:12 PM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:24:12 PM][Main Program] After Getting the Customer details
+[03/01/2017 12:25:00 PM][Main Program] Current date 03/01/2017 doesn't match the reminder date 03/15/2017 to send email
+[03/01/2017 12:25:00 PM][Main Program] Ending Program
+[03/01/2017 12:25:13 PM][Main Program] Starting Program
+[03/01/2017 12:25:13 PM][Main Program] Before Getting the Customer details
+[03/01/2017 12:25:13 PM][GetCardCode()] Starting Function 
+[03/01/2017 12:25:13 PM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[03/01/2017 12:25:13 PM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:25:13 PM][Main Program] After Getting the Customer details
+[03/01/2017 12:25:13 PM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 12:25:13 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[03/01/2017 12:25:13 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 12:25:13 PM][Main Program] Sending Mail to : boorlas@gmail.com
+[03/01/2017 12:25:13 PM][SendAutomatedEmail] Sarting function
+[03/01/2017 12:25:13 PM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 12:25:13 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 12:25:13 PM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 12:25:13 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 12:25:13 PM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[03/01/2017 12:25:13 PM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 12:25:13 PM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[03/01/2017 12:25:15 PM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 12:25:15 PM][Main Program] Mail Sent Successfully to : boorlas@gmail.com
+[03/01/2017 12:25:15 PM][Main Program] Before Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 12:25:15 PM][InsertEmailLog] Starting Function 
+[03/01/2017 12:25:15 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[03/01/2017 12:25:15 PM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 12:25:15 PM][Main Program] After Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 12:25:15 PM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 12:25:15 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[03/01/2017 12:25:15 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 12:25:15 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[03/01/2017 12:25:15 PM][SendAutomatedEmail] Sarting function
+[03/01/2017 12:25:15 PM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 12:25:15 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 12:25:15 PM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 12:25:15 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 12:25:15 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[03/01/2017 12:25:15 PM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 12:25:15 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[03/01/2017 12:25:18 PM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 12:25:18 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[03/01/2017 12:25:18 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 12:25:18 PM][InsertEmailLog] Starting Function 
+[03/01/2017 12:25:18 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[03/01/2017 12:25:18 PM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 12:25:18 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 12:25:18 PM][Main Program] Ending Program
+[12/10/2017 12:59:38 AM][Main Program] Starting Program
+[12/10/2017 12:59:39 AM][Main Program] Before Getting the Customer details
+[12/10/2017 12:59:39 AM][GetCardCode()] Starting Function 
+[12/10/2017 12:59:39 AM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[12/10/2017 12:59:39 AM][GetCardCode()] Completed With SUCCESS 
+[12/10/2017 12:59:39 AM][Main Program] After Getting the Customer details
+[12/10/2017 12:59:53 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 12:59:53 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[12/10/2017 12:59:53 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 12:59:53 AM][Main Program] Sending Mail to : boorlas@gmail.com
+[12/10/2017 12:59:54 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 12:59:54 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 12:59:54 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 12:59:54 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 12:59:54 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 12:59:54 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[12/10/2017 12:59:54 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 12:59:54 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[12/10/2017 12:59:56 AM][SendAutomatedEmail] Function completed with Success
+[12/10/2017 12:59:59 AM][Main Program] Mail Sent Successfully to : boorlas@gmail.com
+[12/10/2017 12:59:59 AM][Main Program] Before Inserting to Email Log for : boorlas@gmail.com
+[12/10/2017 12:59:59 AM][InsertEmailLog] Starting Function 
+[12/10/2017 12:59:59 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[12/10/2017 12:59:59 AM][InsertEmailLog] Completed With SUCCESS 
+[12/10/2017 12:59:59 AM][Main Program] After Inserting to Email Log for : boorlas@gmail.com
+[12/10/2017 12:59:59 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 12:59:59 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[12/10/2017 12:59:59 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 12:59:59 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/10/2017 12:59:59 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 12:59:59 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 12:59:59 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 12:59:59 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 12:59:59 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 12:59:59 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/10/2017 12:59:59 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 12:59:59 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/10/2017 1:00:01 AM][SendAutomatedEmail] Function completed with Success
+[12/10/2017 1:00:01 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/10/2017 1:00:01 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/10/2017 1:00:01 AM][InsertEmailLog] Starting Function 
+[12/10/2017 1:00:01 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[12/10/2017 1:00:01 AM][InsertEmailLog] Completed With SUCCESS 
+[12/10/2017 1:00:01 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/10/2017 1:00:01 AM][Main Program] Ending Program
+[03/01/2017 1:06:42 AM][Main Program] Starting Program
+[03/01/2017 1:06:43 AM][Main Program] Before Getting the Customer details
+[03/01/2017 1:06:43 AM][GetCardCode()] Starting Function 
+[03/01/2017 1:06:43 AM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[03/01/2017 1:06:43 AM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 1:06:43 AM][Main Program] After Getting the Customer details
+[03/01/2017 1:08:06 AM][Main Program] Starting Program
+[03/01/2017 1:08:07 AM][Main Program] Before Getting the Customer details
+[03/01/2017 1:08:07 AM][GetCardCode()] Starting Function 
+[03/01/2017 1:08:07 AM][GetCardCode()] Calling Run_StoredProcedure() AB_PTAXFILING_SP001_GetCardCodes
+[03/01/2017 1:08:07 AM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 1:08:07 AM][Main Program] After Getting the Customer details
+[03/01/2017 1:08:14 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 1:08:14 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[03/01/2017 1:08:14 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 1:08:15 AM][Main Program] Sending Mail to : boorlas@gmail.com
+[03/01/2017 1:08:15 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 1:08:15 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 1:08:15 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 1:08:15 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 1:08:15 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 1:08:15 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[03/01/2017 1:08:15 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 1:08:15 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[03/01/2017 1:08:18 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 1:08:19 AM][Main Program] Mail Sent Successfully to : boorlas@gmail.com
+[03/01/2017 1:08:19 AM][Main Program] Before Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 1:08:20 AM][InsertEmailLog] Starting Function 
+[03/01/2017 1:08:20 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[03/01/2017 1:08:20 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 1:08:20 AM][Main Program] After Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 1:08:21 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 1:08:21 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_PTAXFILING_SP002_CheckDuplicateMailSending
+[03/01/2017 1:08:21 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 1:08:21 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[03/01/2017 1:08:21 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 1:08:21 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 1:08:21 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 1:08:21 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 1:08:21 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 1:08:21 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[03/01/2017 1:08:21 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 1:08:21 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[03/01/2017 1:08:24 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 1:08:24 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[03/01/2017 1:08:24 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 1:08:24 AM][InsertEmailLog] Starting Function 
+[03/01/2017 1:08:24 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_PTAXFILING_SP003_InsertPTAXFILINGLog
+[03/01/2017 1:08:24 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 1:08:24 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 1:08:24 AM][Main Program] Ending Program

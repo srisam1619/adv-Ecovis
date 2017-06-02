@@ -1,0 +1,5 @@
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\bin\Release\SOA_StatementofAccount.exe.config
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\bin\Release\SOA_StatementofAccount.exe
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\bin\Release\SOA_StatementofAccount.pdb
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\obj\x86\Release\SOA_StatementofAccount.exe
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\obj\x86\Release\SOA_StatementofAccount.pdb

@@ -1,0 +1,6 @@
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\bin\Debug\SOA_StatementofAccount.exe
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\bin\Debug\SOA_StatementofAccount.pdb
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\obj\x86\Debug\SOA_StatementofAccount.exe
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\obj\x86\Debug\SOA_StatementofAccount.pdb
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\bin\Debug\SOA_StatementofAccount.exe.config
+E:\VIVEK\SOA\SOA_StatementofAccount\SOA_StatementofAccount\obj\x86\Debug\SOA_StatementofAccount.csprojResolveAssemblyReference.cache

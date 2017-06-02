@@ -1,0 +1,535 @@
+[12/8/2016 3:58:06 PM][Main Program] Starting Program
+[12/8/2016 3:58:06 PM][Main Program] Before Getting the Customer details
+[12/8/2016 3:58:06 PM][GetCardCode()] Starting Function 
+[12/8/2016 3:58:06 PM][GetCardCode()] Calling Run_StoredProcedure() AB_SOA_SP002_GetCardCodes
+[12/8/2016 3:58:06 PM][GetCardCode()] Completed With SUCCESS 
+[12/8/2016 3:58:06 PM][Main Program] After Getting the Customer details
+[12/8/2016 3:58:06 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:06 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:06 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:06 PM][] Can able to send email
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:06 PM][Main Program] Email Previously Sent for : thomas550i@gmail.com
+[12/8/2016 3:58:06 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:06 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:06 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:06 PM][] Can able to send email
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:06 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/8/2016 3:58:06 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:06 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:06 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:06 PM][] Can able to send email
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:06 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:06 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 3:58:06 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:06 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:07 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][] Can able to send email
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][Main Program] Email Previously Sent for : gokikopi@gmail.com
+[12/8/2016 3:58:07 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:07 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:07 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][] Can able to send email
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][Main Program] Email Previously Sent for : boorlas@gmail.com
+[12/8/2016 3:58:07 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:07 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:07 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][] Can able to send email
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 3:58:07 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:07 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:07 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][] Can able to send email
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:07 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:07 PM][Main Program] Sending Mail to : jason@ecovis-bizcorp.com
+[12/8/2016 3:58:07 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 3:58:07 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 3:58:07 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 3:58:07 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 3:58:07 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 3:58:07 PM][CreateDefaultMailMessage] Adding From Email Address:  jason@ecovis-bizcorp.com
+[12/8/2016 3:58:09 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 3:58:09 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 3:58:09 PM][SendAutomatedEmail] Sending Email Messages to : jason@ecovis-bizcorp.com
+[12/8/2016 3:58:14 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 3:58:14 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 3:58:14 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 3:58:14 PM][Main Program] Mail Sent Successfully to : jason@ecovis-bizcorp.com
+[12/8/2016 3:58:14 PM][Main Program] Before Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 3:58:14 PM][InsertEmailLog] Starting Function 
+[12/8/2016 3:58:14 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 3:58:14 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 3:58:14 PM][Main Program] After Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 3:58:14 PM][GetSOADetails] Starting Function 
+[12/8/2016 3:58:14 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 3:58:14 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 3:58:14 PM][] Can able to send email
+[12/8/2016 3:58:14 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 3:58:14 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 3:58:14 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 3:58:14 PM][Main Program] Sending Mail to : jeremy@ecovis-bizcorp.com
+[12/8/2016 3:58:14 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 3:58:14 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 3:58:14 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 3:58:14 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 3:58:14 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 3:58:14 PM][CreateDefaultMailMessage] Adding From Email Address:  jeremy@ecovis-bizcorp.com
+[12/8/2016 3:58:15 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 3:58:15 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 3:58:15 PM][SendAutomatedEmail] Sending Email Messages to : jeremy@ecovis-bizcorp.com
+[12/8/2016 3:58:18 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 3:58:18 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 3:58:18 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 3:58:18 PM][Main Program] Mail Sent Successfully to : jeremy@ecovis-bizcorp.com
+[12/8/2016 3:58:18 PM][Main Program] Before Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 3:58:18 PM][InsertEmailLog] Starting Function 
+[12/8/2016 3:58:18 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 3:58:18 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 3:58:18 PM][Main Program] After Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 3:58:18 PM][Main Program] Ending Program
+[12/8/2016 4:07:51 PM][Main Program] Starting Program
+[12/8/2016 4:07:51 PM][Main Program] Before Getting the Customer details
+[12/8/2016 4:07:51 PM][GetCardCode()] Starting Function 
+[12/8/2016 4:07:51 PM][GetCardCode()] Calling Run_StoredProcedure() AB_SOA_SP002_GetCardCodes
+[12/8/2016 4:07:51 PM][GetCardCode()] Completed With SUCCESS 
+[12/8/2016 4:07:51 PM][Main Program] After Getting the Customer details
+[12/8/2016 4:07:51 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:51 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:51 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:51 PM][] Can able to send email
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:51 PM][Main Program] Email Previously Sent for : thomas550i@gmail.com
+[12/8/2016 4:07:51 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:51 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:51 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:51 PM][] Can able to send email
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:51 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/8/2016 4:07:51 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:51 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:51 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:51 PM][] Can able to send email
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:51 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:51 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:07:51 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:51 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:52 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][] Can able to send email
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][Main Program] Email Previously Sent for : gokikopi@gmail.com
+[12/8/2016 4:07:52 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:52 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:52 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][] Can able to send email
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][Main Program] Email Previously Sent for : boorlas@gmail.com
+[12/8/2016 4:07:52 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:52 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:52 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][] Can able to send email
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:07:52 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:52 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:52 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][] Can able to send email
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:52 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:52 PM][Main Program] Sending Mail to : jason@ecovis-bizcorp.com
+[12/8/2016 4:07:52 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:07:52 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:07:52 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:07:52 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:07:52 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:07:52 PM][CreateDefaultMailMessage] Adding From Email Address:  jason@ecovis-bizcorp.com
+[12/8/2016 4:07:54 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:07:54 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:07:54 PM][SendAutomatedEmail] Sending Email Messages to : jason@ecovis-bizcorp.com
+[12/8/2016 4:07:57 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:07:57 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:07:57 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:07:57 PM][Main Program] Mail Sent Successfully to : jason@ecovis-bizcorp.com
+[12/8/2016 4:07:57 PM][Main Program] Before Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:07:57 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:07:57 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:07:57 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:07:57 PM][Main Program] After Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:07:57 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:07:57 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:07:57 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:07:57 PM][] Can able to send email
+[12/8/2016 4:07:57 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:07:57 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:07:57 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:07:57 PM][Main Program] Sending Mail to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:07:57 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:07:57 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:07:57 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:07:57 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:07:57 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:07:57 PM][CreateDefaultMailMessage] Adding From Email Address:  jeremy@ecovis-bizcorp.com
+[12/8/2016 4:07:58 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:07:58 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:07:58 PM][SendAutomatedEmail] Sending Email Messages to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:08:01 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:08:01 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:08:01 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:08:01 PM][Main Program] Mail Sent Successfully to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:08:01 PM][Main Program] Before Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:08:01 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:08:01 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:08:01 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:08:01 PM][Main Program] After Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:08:01 PM][Main Program] Ending Program
+[12/8/2016 4:10:16 PM][Main Program] Starting Program
+[12/8/2016 4:10:16 PM][Main Program] Before Getting the Customer details
+[12/8/2016 4:10:16 PM][GetCardCode()] Starting Function 
+[12/8/2016 4:10:16 PM][GetCardCode()] Calling Run_StoredProcedure() AB_SOA_SP002_GetCardCodes
+[12/8/2016 4:10:16 PM][GetCardCode()] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] After Getting the Customer details
+[12/8/2016 4:10:16 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:16 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:16 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][] Can able to send email
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] Email Previously Sent for : thomas550i@gmail.com
+[12/8/2016 4:10:16 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:16 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:16 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][] Can able to send email
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/8/2016 4:10:16 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:16 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:16 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][] Can able to send email
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:10:16 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:16 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:16 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][] Can able to send email
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] Email Previously Sent for : gokikopi@gmail.com
+[12/8/2016 4:10:16 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:16 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:16 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][] Can able to send email
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] Email Previously Sent for : boorlas@gmail.com
+[12/8/2016 4:10:16 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:16 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:16 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][] Can able to send email
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:10:16 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:16 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:16 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][] Can able to send email
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:16 PM][Main Program] Sending Mail to : jason@ecovis-bizcorp.com
+[12/8/2016 4:10:16 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:10:16 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:10:16 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:10:16 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:10:16 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:10:16 PM][CreateDefaultMailMessage] Adding From Email Address:  jason@ecovis-bizcorp.com
+[12/8/2016 4:10:19 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:10:19 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:10:19 PM][SendAutomatedEmail] Sending Email Messages to : jason@ecovis-bizcorp.com
+[12/8/2016 4:10:23 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:10:23 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:10:23 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:10:23 PM][Main Program] Mail Sent Successfully to : jason@ecovis-bizcorp.com
+[12/8/2016 4:10:23 PM][Main Program] Before Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:10:23 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:10:23 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:10:23 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:10:23 PM][Main Program] After Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:10:23 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:10:23 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:10:23 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:10:23 PM][] Can able to send email
+[12/8/2016 4:10:23 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:10:23 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:10:23 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:10:23 PM][Main Program] Sending Mail to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:10:23 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:10:23 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:10:23 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:10:23 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:10:23 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:10:23 PM][CreateDefaultMailMessage] Adding From Email Address:  jeremy@ecovis-bizcorp.com
+[12/8/2016 4:10:24 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:10:24 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:10:24 PM][SendAutomatedEmail] Sending Email Messages to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:10:27 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:10:27 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:10:27 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:10:27 PM][Main Program] Mail Sent Successfully to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:10:27 PM][Main Program] Before Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:10:27 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:10:27 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:10:27 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:10:27 PM][Main Program] After Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:10:27 PM][Main Program] Ending Program
+[12/8/2016 4:16:45 PM][Main Program] Starting Program
+[12/8/2016 4:16:45 PM][Main Program] Before Getting the Customer details
+[12/8/2016 4:16:45 PM][GetCardCode()] Starting Function 
+[12/8/2016 4:16:45 PM][GetCardCode()] Calling Run_StoredProcedure() AB_SOA_SP002_GetCardCodes
+[12/8/2016 4:16:45 PM][GetCardCode()] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] After Getting the Customer details
+[12/8/2016 4:16:45 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:45 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:45 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][] Can able to send email
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] Email Previously Sent for : thomas550i@gmail.com
+[12/8/2016 4:16:45 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:45 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:45 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][] Can able to send email
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/8/2016 4:16:45 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:45 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:45 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][] Can able to send email
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:16:45 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:45 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:45 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][] Can able to send email
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] Email Previously Sent for : gokikopi@gmail.com
+[12/8/2016 4:16:45 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:45 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:45 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][] Can able to send email
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] Email Previously Sent for : boorlas@gmail.com
+[12/8/2016 4:16:45 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:45 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:45 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][] Can able to send email
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:16:45 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:45 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:45 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][] Can able to send email
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:45 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:45 PM][Main Program] Sending Mail to : jason@ecovis-bizcorp.com
+[12/8/2016 4:16:45 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:16:45 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:16:45 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:16:45 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:16:45 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:16:45 PM][CreateDefaultMailMessage] Adding From Email Address:  jason@ecovis-bizcorp.com
+[12/8/2016 4:16:48 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:16:48 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:16:48 PM][SendAutomatedEmail] Sending Email Messages to : jason@ecovis-bizcorp.com
+[12/8/2016 4:16:51 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:16:51 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:16:51 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:16:51 PM][Main Program] Mail Sent Successfully to : jason@ecovis-bizcorp.com
+[12/8/2016 4:16:51 PM][Main Program] Before Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:16:51 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:16:51 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:16:51 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:16:51 PM][Main Program] After Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:16:51 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:16:51 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:16:51 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:16:51 PM][] Can able to send email
+[12/8/2016 4:16:51 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:16:51 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:16:51 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:16:51 PM][Main Program] Sending Mail to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:16:51 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:16:51 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:16:51 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:16:51 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:16:51 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:16:51 PM][CreateDefaultMailMessage] Adding From Email Address:  jeremy@ecovis-bizcorp.com
+[12/8/2016 4:16:52 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:16:52 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:16:52 PM][SendAutomatedEmail] Sending Email Messages to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:16:56 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:16:56 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:16:56 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:16:56 PM][Main Program] Mail Sent Successfully to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:16:56 PM][Main Program] Before Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:16:56 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:16:56 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:16:56 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:16:56 PM][Main Program] After Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:16:56 PM][Main Program] Ending Program
+[12/8/2016 4:18:56 PM][Main Program] Starting Program
+[12/8/2016 4:18:56 PM][Main Program] Before Getting the Customer details
+[12/8/2016 4:18:56 PM][GetCardCode()] Starting Function 
+[12/8/2016 4:18:56 PM][GetCardCode()] Calling Run_StoredProcedure() AB_SOA_SP002_GetCardCodes
+[12/8/2016 4:18:56 PM][GetCardCode()] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] After Getting the Customer details
+[12/8/2016 4:18:56 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:18:56 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:18:56 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][] Can able to send email
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] Email Previously Sent for : thomas550i@gmail.com
+[12/8/2016 4:18:56 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:18:56 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:18:56 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][] Can able to send email
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/8/2016 4:18:56 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:18:56 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:18:56 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][] Can able to send email
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:18:56 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:18:56 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:18:56 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][] Can able to send email
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] Email Previously Sent for : gokikopi@gmail.com
+[12/8/2016 4:18:56 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:18:56 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:18:56 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][] Can able to send email
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] Email Previously Sent for : boorlas@gmail.com
+[12/8/2016 4:18:56 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:18:56 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:18:56 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][] Can able to send email
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/8/2016 4:18:56 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:18:56 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:18:56 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][] Can able to send email
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:18:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:18:56 PM][Main Program] Sending Mail to : jason@ecovis-bizcorp.com
+[12/8/2016 4:18:56 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:18:56 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:18:56 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:18:56 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:18:56 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:18:56 PM][CreateDefaultMailMessage] Adding From Email Address:  jason@ecovis-bizcorp.com
+[12/8/2016 4:18:58 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:18:58 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:18:58 PM][SendAutomatedEmail] Sending Email Messages to : jason@ecovis-bizcorp.com
+[12/8/2016 4:19:01 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:19:01 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:19:01 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:19:01 PM][Main Program] Mail Sent Successfully to : jason@ecovis-bizcorp.com
+[12/8/2016 4:19:01 PM][Main Program] Before Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:19:01 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:19:01 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:19:01 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:19:01 PM][Main Program] After Inserting to Email Log for : jason@ecovis-bizcorp.com
+[12/8/2016 4:19:01 PM][GetSOADetails] Starting Function 
+[12/8/2016 4:19:01 PM][GetSOADetails] Calling Run_StoredProcedure() AB_SOA_SP001
+[12/8/2016 4:19:01 PM][GetSOADetails] Completed With SUCCESS 
+[12/8/2016 4:19:01 PM][] Can able to send email
+[12/8/2016 4:19:01 PM][CheckDuplicateMailSending] Starting Function 
+[12/8/2016 4:19:01 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_SOA_SP004_CheckDuplicateMailSending
+[12/8/2016 4:19:01 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/8/2016 4:19:01 PM][Main Program] Sending Mail to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:19:01 PM][SendAutomatedEmail] Sarting function
+[12/8/2016 4:19:01 PM][SendAutomatedEmail] Setting SMTP properties
+[12/8/2016 4:19:01 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/8/2016 4:19:02 PM][CreateDefaultMailMessage] Sarting function
+[12/8/2016 4:19:02 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/8/2016 4:19:02 PM][CreateDefaultMailMessage] Adding From Email Address:  jeremy@ecovis-bizcorp.com
+[12/8/2016 4:19:02 PM][CreatePDF] PDF Created successfully for Customer Code : C20000
+[12/8/2016 4:19:02 PM][SendAutomatedEmail] Sending Email Message
+[12/8/2016 4:19:02 PM][SendAutomatedEmail] Sending Email Messages to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:19:06 PM][SendAutomatedEmail] After Sending Mail , Before Deleting the attachment
+[12/8/2016 4:19:06 PM][SendAutomatedEmail] After Sending Mail , after Deleting the attachment
+[12/8/2016 4:19:06 PM][SendAutomatedEmail] Function completed with Success
+[12/8/2016 4:19:06 PM][Main Program] Mail Sent Successfully to : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:19:06 PM][Main Program] Before Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:19:06 PM][InsertEmailLog] Starting Function 
+[12/8/2016 4:19:06 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_SOA_SP003_InsertSOALog
+[12/8/2016 4:19:06 PM][InsertEmailLog] Completed With SUCCESS 
+[12/8/2016 4:19:06 PM][Main Program] After Inserting to Email Log for : jeremy@ecovis-bizcorp.com
+[12/8/2016 4:19:06 PM][Main Program] Ending Program

@@ -1,0 +1,12 @@
+E:\VIVEK\SOA\SOA_ECIFilingReminder\SOA_ECIFilingReminder\bin\Debug\SOA_ECIFilingReminder.exe
+E:\VIVEK\SOA\SOA_ECIFilingReminder\SOA_ECIFilingReminder\bin\Debug\SOA_ECIFilingReminder.pdb
+E:\VIVEK\SOA\SOA_ECIFilingReminder\SOA_ECIFilingReminder\obj\x86\Debug\SOA_ECIFilingReminder.exe
+E:\VIVEK\SOA\SOA_ECIFilingReminder\SOA_ECIFilingReminder\obj\x86\Debug\SOA_ECIFilingReminder.pdb
+E:\VIVEK\SOA\SOA_ECIFilingReminder\SOA_ECIFilingReminder\bin\Debug\SOA_ECIFilingReminder.exe.config
+E:\VIVEK\SOA\SOA_ECIFilingReminder\SOA_ECIFilingReminder\obj\x86\Debug\SOA_ECIFilingReminder.csprojResolveAssemblyReference.cache
+E:\VIVEK\SOA\ECIFilingReminder\SOA_ECIFilingReminder\bin\Debug\SOA_ECIFilingReminder.exe.config
+E:\VIVEK\SOA\ECIFilingReminder\SOA_ECIFilingReminder\bin\Debug\SOA_ECIFilingReminder.exe
+E:\VIVEK\SOA\ECIFilingReminder\SOA_ECIFilingReminder\bin\Debug\SOA_ECIFilingReminder.pdb
+E:\VIVEK\SOA\ECIFilingReminder\SOA_ECIFilingReminder\obj\x86\Debug\SOA_ECIFilingReminder.exe
+E:\VIVEK\SOA\ECIFilingReminder\SOA_ECIFilingReminder\obj\x86\Debug\SOA_ECIFilingReminder.pdb
+E:\VIVEK\SOA\ECIFilingReminder\SOA_ECIFilingReminder\obj\x86\Debug\SOA_ECIFilingReminder.csprojResolveAssemblyReference.cache

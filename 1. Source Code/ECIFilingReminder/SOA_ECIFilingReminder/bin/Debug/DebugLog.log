@@ -1,0 +1,427 @@
+[12/27/2016 6:27:06 PM][Main Program] Starting Program
+[12/27/2016 6:27:06 PM][Main Program] Before Getting the Customer details
+[12/27/2016 6:27:06 PM][GetCardCode()] Starting Function 
+[12/27/2016 6:27:06 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/27/2016 6:27:06 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 6:27:06 PM][Main Program] After Getting the Customer details
+[12/27/2016 6:28:54 PM][Main Program] Current date  doesn't match the reminder date  to send email
+[12/27/2016 6:28:56 PM][Main Program] Ending Program
+[12/27/2016 6:30:16 PM][Main Program] Starting Program
+[12/27/2016 6:30:16 PM][Main Program] Before Getting the Customer details
+[12/27/2016 6:30:16 PM][GetCardCode()] Starting Function 
+[12/27/2016 6:30:16 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/27/2016 6:30:16 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 6:30:16 PM][Main Program] After Getting the Customer details
+[12/27/2016 6:30:29 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:30:29 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:30:29 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:30:31 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 6:30:31 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 6:30:31 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 6:30:31 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 6:30:31 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 6:30:31 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 6:30:31 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 6:30:31 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 6:30:31 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 6:30:34 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 6:30:36 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 6:30:37 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 6:30:37 PM][InsertEmailLog] Starting Function 
+[12/27/2016 6:30:37 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/27/2016 6:30:37 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 6:30:37 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 6:30:39 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:30:39 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:30:39 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:30:39 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 6:30:40 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 6:30:40 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 6:30:40 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 6:30:40 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 6:30:40 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 6:30:40 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 6:30:40 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 6:30:40 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 6:30:42 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 6:30:43 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 6:30:44 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 6:30:44 PM][InsertEmailLog] Starting Function 
+[12/27/2016 6:30:44 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/27/2016 6:30:44 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 6:30:44 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 6:30:48 PM][Main Program] Ending Program
+[12/27/2016 6:36:20 PM][Main Program] Starting Program
+[12/27/2016 6:36:20 PM][Main Program] Before Getting the Customer details
+[12/27/2016 6:36:20 PM][GetCardCode()] Starting Function 
+[12/27/2016 6:36:20 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/27/2016 6:36:20 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 6:36:20 PM][Main Program] After Getting the Customer details
+[12/27/2016 6:36:36 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:36:36 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:36:36 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:36:36 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 6:36:39 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 6:36:39 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 6:36:39 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 6:36:39 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 6:36:39 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 6:36:39 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 6:36:39 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 6:36:39 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 6:36:41 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 6:36:43 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 6:36:43 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 6:36:43 PM][InsertEmailLog] Starting Function 
+[12/27/2016 6:36:43 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/27/2016 6:36:43 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 6:36:43 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 6:36:46 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:36:46 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:36:46 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:38:49 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 6:38:50 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 6:38:50 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 6:38:50 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 6:38:50 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 6:38:50 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 6:38:50 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 6:38:50 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 6:38:50 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 6:38:52 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 6:38:53 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 6:38:53 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 6:38:54 PM][InsertEmailLog] Starting Function 
+[12/27/2016 6:38:54 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/27/2016 6:38:54 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 6:38:54 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 6:38:59 PM][Main Program] Ending Program
+[12/27/2016 6:41:12 PM][Main Program] Starting Program
+[12/27/2016 6:41:12 PM][Main Program] Before Getting the Customer details
+[12/27/2016 6:41:12 PM][GetCardCode()] Starting Function 
+[12/27/2016 6:41:12 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/27/2016 6:41:12 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 6:41:12 PM][Main Program] After Getting the Customer details
+[12/27/2016 6:41:14 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:41:14 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:41:14 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:41:14 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/27/2016 6:41:14 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:41:14 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:41:14 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:41:14 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/27/2016 6:41:14 PM][Main Program] Ending Program
+[12/27/2016 6:41:29 PM][Main Program] Starting Program
+[12/27/2016 6:41:29 PM][Main Program] Before Getting the Customer details
+[12/27/2016 6:41:29 PM][GetCardCode()] Starting Function 
+[12/27/2016 6:41:29 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/27/2016 6:41:29 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 6:41:29 PM][Main Program] After Getting the Customer details
+[12/27/2016 6:41:32 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:41:32 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:41:32 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:41:32 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 6:41:32 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 6:41:32 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 6:41:32 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 6:41:32 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 6:41:32 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 6:41:32 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 6:41:33 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 6:41:33 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 6:41:35 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 6:41:35 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 6:41:35 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 6:41:35 PM][InsertEmailLog] Starting Function 
+[12/27/2016 6:41:35 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/27/2016 6:41:35 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 6:41:35 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 6:41:35 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 6:41:35 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/27/2016 6:41:35 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 6:41:35 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 6:41:35 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 6:41:35 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 6:41:35 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 6:41:35 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 6:41:35 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 6:41:35 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 6:42:53 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 6:42:53 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 6:44:33 PM][SendAutomatedEmail] Function completed with Error
+[12/27/2016 6:44:33 PM][Main Program] Failed to send Mail for: vivekrm60@gmail.com
+[12/27/2016 6:44:33 PM][Main Program] Before Sending Email to admin on error method SendEmailOnErrorCase() : 
+[12/27/2016 6:44:33 PM][SendEmailOnErrorCase] Sarting function
+[12/27/2016 6:44:33 PM][SendEmailOnErrorCase] Setting SMTP properties
+[12/27/2016 6:44:33 PM][SendEmailOnErrorCase] Sending Email Message
+[12/27/2016 6:44:33 PM][SendEmailOnErrorCase] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 6:44:35 PM][SendEmailOnErrorCase] Function completed with Success
+[12/27/2016 6:44:35 PM][Main Program] After Sending Email to admin on error method SendEmailOnErrorCase() 
+[12/27/2016 6:44:35 PM][Main Program] Ending Program
+[03/01/2017 12:13:00 PM][Main Program] Starting Program
+[03/01/2017 12:13:00 PM][Main Program] Before Getting the Customer details
+[03/01/2017 12:13:00 PM][GetCardCode()] Starting Function 
+[03/01/2017 12:13:00 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/01/2017 12:13:00 PM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:13:00 PM][Main Program] After Getting the Customer details
+[03/01/2017 12:13:00 PM][Main Program] Current date 03/01/2017 doesn't match the reminder date  to send email
+[03/01/2017 12:13:00 PM][Main Program] Ending Program
+[03/01/2017 12:13:08 PM][Main Program] Starting Program
+[03/01/2017 12:13:08 PM][Main Program] Before Getting the Customer details
+[03/01/2017 12:13:08 PM][GetCardCode()] Starting Function 
+[03/01/2017 12:13:08 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/01/2017 12:13:08 PM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:13:10 PM][Main Program] After Getting the Customer details
+[03/01/2017 12:13:42 PM][Main Program] Current date 03/01/2017 doesn't match the reminder date  to send email
+[03/01/2017 12:13:42 PM][Main Program] Ending Program
+[03/01/2017 12:13:50 PM][Main Program] Starting Program
+[03/01/2017 12:13:50 PM][Main Program] Before Getting the Customer details
+[03/01/2017 12:13:50 PM][GetCardCode()] Starting Function 
+[03/01/2017 12:13:50 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/01/2017 12:13:50 PM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:13:54 PM][Main Program] After Getting the Customer details
+[03/01/2017 12:14:35 PM][Main Program] Current date 03/01/2017 doesn't match the reminder date 04/19/2017 to send email
+[03/01/2017 12:14:35 PM][Main Program] Ending Program
+[03/01/2017 12:14:43 PM][Main Program] Starting Program
+[03/01/2017 12:14:43 PM][Main Program] Before Getting the Customer details
+[03/01/2017 12:14:43 PM][GetCardCode()] Starting Function 
+[03/01/2017 12:14:43 PM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/01/2017 12:14:43 PM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:14:45 PM][Main Program] After Getting the Customer details
+[03/01/2017 12:14:51 PM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 12:14:51 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[03/01/2017 12:14:51 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 12:14:54 PM][Main Program] Sending Mail to : boorlas@gmail.com
+[03/01/2017 12:14:54 PM][SendAutomatedEmail] Sarting function
+[03/01/2017 12:14:54 PM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 12:14:54 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 12:14:54 PM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 12:14:54 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 12:14:54 PM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[03/01/2017 12:14:54 PM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 12:14:54 PM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[03/01/2017 12:14:57 PM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 12:15:01 PM][Main Program] Mail Sent Successfully to : boorlas@gmail.com
+[03/01/2017 12:15:03 PM][Main Program] Before Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 12:15:03 PM][InsertEmailLog] Starting Function 
+[03/01/2017 12:15:03 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[03/01/2017 12:15:03 PM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 12:15:03 PM][Main Program] After Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 12:15:03 PM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 12:15:03 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[03/01/2017 12:15:03 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 12:15:03 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[03/01/2017 12:15:03 PM][SendAutomatedEmail] Sarting function
+[03/01/2017 12:15:03 PM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 12:15:03 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 12:15:03 PM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 12:15:03 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 12:15:03 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[03/01/2017 12:15:03 PM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 12:15:03 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[03/01/2017 12:15:05 PM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 12:15:05 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[03/01/2017 12:15:06 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 12:15:06 PM][InsertEmailLog] Starting Function 
+[03/01/2017 12:15:06 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[03/01/2017 12:15:06 PM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 12:15:06 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 12:15:06 PM][Main Program] Ending Program
+[03/10/2016 12:16:24 AM][Main Program] Starting Program
+[03/10/2016 12:16:24 AM][Main Program] Before Getting the Customer details
+[03/10/2016 12:16:24 AM][GetCardCode()] Starting Function 
+[03/10/2016 12:16:24 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/10/2016 12:16:24 AM][GetCardCode()] Completed With SUCCESS 
+[03/10/2016 12:16:24 AM][Main Program] After Getting the Customer details
+[03/10/2016 12:16:24 AM][Main Program] Current date 03/10/2016 doesn't match the reminder date 03/01/2017 to send email
+[03/10/2016 12:16:24 AM][Main Program] Ending Program
+[03/10/2016 12:16:39 AM][Main Program] Starting Program
+[03/10/2016 12:16:39 AM][Main Program] Before Getting the Customer details
+[03/10/2016 12:16:39 AM][GetCardCode()] Starting Function 
+[03/10/2016 12:16:39 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/10/2016 12:16:39 AM][GetCardCode()] Completed With SUCCESS 
+[03/10/2016 12:16:39 AM][Main Program] After Getting the Customer details
+[03/10/2017 12:17:25 AM][Main Program] Starting Program
+[03/10/2017 12:17:25 AM][Main Program] Before Getting the Customer details
+[03/10/2017 12:17:25 AM][GetCardCode()] Starting Function 
+[03/10/2017 12:17:25 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/10/2017 12:17:25 AM][GetCardCode()] Completed With SUCCESS 
+[03/10/2017 12:17:25 AM][Main Program] After Getting the Customer details
+[03/10/2017 12:18:02 AM][Main Program] Current date 03/10/2017 doesn't match the reminder date  to send email
+[03/10/2017 12:18:02 AM][Main Program] Ending Program
+[03/10/2017 12:32:17 AM][Main Program] Starting Program
+[03/10/2017 12:32:17 AM][Main Program] Before Getting the Customer details
+[03/10/2017 12:32:17 AM][GetCardCode()] Starting Function 
+[03/10/2017 12:32:17 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[03/10/2017 12:32:17 AM][GetCardCode()] Completed With SUCCESS 
+[03/10/2017 12:32:17 AM][Main Program] After Getting the Customer details
+[12/10/2017 12:37:25 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 12:37:25 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 12:37:25 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 12:37:25 AM][Main Program] Sending Mail to : boorlas@gmail.com
+[12/10/2017 12:37:26 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 12:37:26 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 12:37:26 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 12:37:26 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 12:37:26 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 12:37:26 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[12/10/2017 12:37:26 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 12:37:26 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[12/10/2017 12:37:27 AM][SendAutomatedEmail] Function completed with Error
+[12/10/2017 12:39:20 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 12:39:21 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 12:39:23 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 12:39:23 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 12:39:23 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 12:39:23 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[12/10/2017 12:39:27 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 12:39:27 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[12/10/2017 12:40:10 AM][Main Program] Starting Program
+[12/10/2017 12:40:10 AM][Main Program] Before Getting the Customer details
+[12/10/2017 12:40:10 AM][GetCardCode()] Starting Function 
+[12/10/2017 12:40:10 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/10/2017 12:40:10 AM][GetCardCode()] Completed With SUCCESS 
+[12/10/2017 12:40:10 AM][Main Program] After Getting the Customer details
+[12/10/2017 12:40:18 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 12:40:18 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 12:40:18 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 12:40:25 AM][Main Program] Sending Mail to : boorlas@gmail.com
+[12/10/2017 12:40:26 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 12:40:26 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 12:40:26 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 12:40:26 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 12:40:26 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 12:40:26 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[12/10/2017 12:40:26 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 12:40:26 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[12/10/2017 12:40:27 AM][SendAutomatedEmail] Function completed with Error
+[12/10/2017 12:42:20 AM][Main Program] Starting Program
+[12/10/2017 12:42:20 AM][Main Program] Before Getting the Customer details
+[12/10/2017 12:42:20 AM][GetCardCode()] Starting Function 
+[12/10/2017 12:42:20 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/10/2017 12:42:20 AM][GetCardCode()] Completed With SUCCESS 
+[12/10/2017 12:42:20 AM][Main Program] After Getting the Customer details
+[12/10/2017 12:42:25 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 12:42:25 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 12:42:25 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 12:42:26 AM][Main Program] Sending Mail to : boorlas@gmail.com
+[12/10/2017 12:42:26 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 12:42:26 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 12:42:26 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 12:42:26 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 12:42:26 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 12:42:26 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[12/10/2017 12:42:26 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 12:42:26 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[12/10/2017 12:42:29 AM][SendAutomatedEmail] Function completed with Success
+[12/10/2017 12:42:32 AM][Main Program] Mail Sent Successfully to : boorlas@gmail.com
+[12/10/2017 12:42:33 AM][Main Program] Before Inserting to Email Log for : boorlas@gmail.com
+[12/10/2017 12:42:33 AM][InsertEmailLog] Starting Function 
+[12/10/2017 12:42:33 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/10/2017 12:42:33 AM][InsertEmailLog] Completed With SUCCESS 
+[12/10/2017 12:42:34 AM][Main Program] After Inserting to Email Log for : boorlas@gmail.com
+[12/10/2017 12:42:36 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 12:42:36 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 12:42:36 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 12:42:36 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/10/2017 12:42:36 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 12:42:36 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 12:42:36 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 12:42:36 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 12:42:36 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 12:42:36 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/10/2017 12:42:36 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 12:42:36 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/10/2017 12:42:38 AM][SendAutomatedEmail] Function completed with Success
+[12/10/2017 12:42:38 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/10/2017 12:42:38 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/10/2017 12:42:38 AM][InsertEmailLog] Starting Function 
+[12/10/2017 12:42:38 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/10/2017 12:42:38 AM][InsertEmailLog] Completed With SUCCESS 
+[12/10/2017 12:42:38 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/10/2017 12:42:38 AM][Main Program] Ending Program
+[12/10/2017 1:31:13 AM][Main Program] Starting Program
+[12/10/2017 1:31:13 AM][Main Program] Before Getting the Customer details
+[12/10/2017 1:31:13 AM][GetCardCode()] Starting Function 
+[12/10/2017 1:31:13 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/10/2017 1:31:13 AM][GetCardCode()] Completed With SUCCESS 
+[12/10/2017 1:31:13 AM][Main Program] After Getting the Customer details
+[12/10/2017 1:31:13 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 1:31:13 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 1:31:13 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 1:31:13 AM][Main Program] Sending Mail to : Thomas550i@gmail.com
+[12/10/2017 1:31:13 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 1:31:13 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 1:31:13 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 1:31:13 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 1:31:13 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 1:31:13 AM][CreateDefaultMailMessage] Adding From Email Address:  Thomas550i@gmail.com
+[12/10/2017 1:31:13 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 1:31:13 AM][SendAutomatedEmail] Sending Email Messages to : Thomas550i@gmail.com
+[12/10/2017 1:31:16 AM][SendAutomatedEmail] Function completed with Success
+[12/10/2017 1:31:16 AM][Main Program] Mail Sent Successfully to : Thomas550i@gmail.com
+[12/10/2017 1:31:16 AM][Main Program] Before Inserting to Email Log for : Thomas550i@gmail.com
+[12/10/2017 1:31:16 AM][InsertEmailLog] Starting Function 
+[12/10/2017 1:31:16 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/10/2017 1:31:16 AM][InsertEmailLog] Completed With SUCCESS 
+[12/10/2017 1:31:16 AM][Main Program] After Inserting to Email Log for : Thomas550i@gmail.com
+[12/10/2017 1:31:16 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 1:31:16 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 1:31:16 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 1:31:16 AM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/10/2017 1:31:16 AM][Main Program] Ending Program
+[12/10/2017 1:31:28 AM][Main Program] Starting Program
+[12/10/2017 1:31:28 AM][Main Program] Before Getting the Customer details
+[12/10/2017 1:31:28 AM][GetCardCode()] Starting Function 
+[12/10/2017 1:31:28 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/10/2017 1:31:28 AM][GetCardCode()] Completed With SUCCESS 
+[12/10/2017 1:31:28 AM][Main Program] After Getting the Customer details
+[12/10/2017 1:31:36 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 1:31:36 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 1:31:36 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 1:31:39 AM][Main Program] Email Previously Sent for : Thomas550i@gmail.com
+[12/10/2017 1:31:51 AM][Main Program] Starting Program
+[12/10/2017 1:31:51 AM][Main Program] Before Getting the Customer details
+[12/10/2017 1:31:51 AM][GetCardCode()] Starting Function 
+[12/10/2017 1:31:51 AM][GetCardCode()] Calling Run_StoredProcedure() AB_ECI_SP001_GetCardCodes
+[12/10/2017 1:31:51 AM][GetCardCode()] Completed With SUCCESS 
+[12/10/2017 1:31:51 AM][Main Program] After Getting the Customer details
+[12/10/2017 1:31:57 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 1:31:57 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 1:31:57 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 1:31:58 AM][Main Program] Sending Mail to : Thomas550i@gmail.com
+[12/10/2017 1:31:59 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 1:31:59 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 1:31:59 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 1:31:59 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 1:31:59 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 1:31:59 AM][CreateDefaultMailMessage] Adding From Email Address:  Thomas550i@gmail.com
+[12/10/2017 1:31:59 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 1:31:59 AM][SendAutomatedEmail] Sending Email Messages to : Thomas550i@gmail.com
+[12/10/2017 1:32:01 AM][SendAutomatedEmail] Function completed with Success
+[12/10/2017 1:32:01 AM][Main Program] Mail Sent Successfully to : Thomas550i@gmail.com
+[12/10/2017 1:32:01 AM][Main Program] Before Inserting to Email Log for : Thomas550i@gmail.com
+[12/10/2017 1:32:01 AM][InsertEmailLog] Starting Function 
+[12/10/2017 1:32:01 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/10/2017 1:32:01 AM][InsertEmailLog] Completed With SUCCESS 
+[12/10/2017 1:32:01 AM][Main Program] After Inserting to Email Log for : Thomas550i@gmail.com
+[12/10/2017 1:32:06 AM][CheckDuplicateMailSending] Starting Function 
+[12/10/2017 1:32:06 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_ECI_SP002_CheckDuplicateMailSending
+[12/10/2017 1:32:06 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/10/2017 1:32:06 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/10/2017 1:32:06 AM][SendAutomatedEmail] Sarting function
+[12/10/2017 1:32:06 AM][SendAutomatedEmail] Setting SMTP properties
+[12/10/2017 1:32:06 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/10/2017 1:32:06 AM][CreateDefaultMailMessage] Sarting function
+[12/10/2017 1:32:06 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/10/2017 1:32:06 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/10/2017 1:32:06 AM][SendAutomatedEmail] Sending Email Message
+[12/10/2017 1:32:06 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/10/2017 1:32:08 AM][SendAutomatedEmail] Function completed with Success
+[12/10/2017 1:32:08 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/10/2017 1:32:08 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/10/2017 1:32:08 AM][InsertEmailLog] Starting Function 
+[12/10/2017 1:32:08 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_ECI_SP003_InsertECILog
+[12/10/2017 1:32:08 AM][InsertEmailLog] Completed With SUCCESS 
+[12/10/2017 1:32:08 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/10/2017 1:32:08 AM][Main Program] Ending Program

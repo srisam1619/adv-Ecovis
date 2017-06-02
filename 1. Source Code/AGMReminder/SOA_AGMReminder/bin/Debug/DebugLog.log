@@ -1,0 +1,580 @@
+[12/27/2016 1:47:23 PM][Main Program] Starting Program
+[12/27/2016 1:47:24 PM][Main Program] Before Getting the Customer details
+[12/27/2016 1:47:24 PM][GetCardCode()] Starting Function 
+[12/27/2016 1:47:24 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 1:47:24 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 1:47:36 PM][Main Program] After Getting the Customer details
+[12/27/2016 1:47:50 PM][Main Program] Completed With ERROR  
+[12/27/2016 1:48:39 PM][Main Program] Starting Program
+[12/27/2016 1:48:39 PM][Main Program] Before Getting the Customer details
+[12/27/2016 1:48:40 PM][GetCardCode()] Starting Function 
+[12/27/2016 1:48:40 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 1:48:40 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 1:48:40 PM][Main Program] After Getting the Customer details
+[12/27/2016 1:49:44 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 1:49:44 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 1:49:44 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 1:50:02 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 1:50:06 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 1:50:06 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 1:50:08 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 1:50:11 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 1:50:12 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 1:50:13 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 1:50:18 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 1:50:18 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 1:50:23 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 1:50:26 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 1:50:26 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 1:50:29 PM][InsertEmailLog] Starting Function 
+[12/27/2016 1:50:29 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 1:50:29 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 1:50:30 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 1:50:33 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 1:50:33 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 1:50:33 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 1:50:33 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 1:50:34 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 1:50:34 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 1:50:34 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 1:50:34 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 1:50:34 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 1:50:34 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 1:50:34 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 1:50:34 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 1:50:36 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 1:50:38 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 1:50:39 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 1:50:40 PM][InsertEmailLog] Starting Function 
+[12/27/2016 1:50:40 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 1:50:40 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 1:50:40 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 1:50:44 PM][Main Program] Ending Program
+[12/27/2016 2:34:56 PM][Main Program] Starting Program
+[12/27/2016 2:34:56 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:34:57 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:34:57 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:34:57 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:34:57 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:35:09 PM][Main Program] Current date 12/27/2016 doesn't match the reminder date 04/01/2017 to send email
+[12/27/2016 2:35:16 PM][Main Program] Ending Program
+[12/27/2016 2:36:31 PM][Main Program] Starting Program
+[12/27/2016 2:36:32 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:36:33 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:36:33 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:36:33 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:36:33 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:36:50 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:36:50 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:36:50 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:36:51 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 2:36:52 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 2:36:52 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 2:36:52 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 2:36:52 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 2:36:52 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 2:36:52 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 2:36:52 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 2:36:52 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 2:36:55 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 2:36:57 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 2:36:57 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 2:36:57 PM][InsertEmailLog] Starting Function 
+[12/27/2016 2:36:57 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 2:36:57 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 2:36:58 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 2:37:00 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:37:00 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:37:00 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:37:02 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 2:37:02 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 2:37:02 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 2:37:02 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 2:37:02 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 2:37:02 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 2:37:02 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 2:37:02 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 2:37:02 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 2:37:05 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 2:37:07 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 2:37:07 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 2:37:07 PM][InsertEmailLog] Starting Function 
+[12/27/2016 2:37:07 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 2:37:07 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 2:37:08 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 2:37:11 PM][Main Program] Ending Program
+[12/27/2016 2:38:35 PM][Main Program] Starting Program
+[12/27/2016 2:38:36 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:38:36 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:38:36 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:38:36 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:38:36 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:38:50 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:38:50 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:38:50 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:39:10 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/27/2016 2:39:12 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:39:12 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:39:12 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:39:13 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/27/2016 2:39:16 PM][Main Program] Ending Program
+[12/28/2016 2:40:10 PM][Main Program] Starting Program
+[12/28/2016 2:40:10 PM][Main Program] Before Getting the Customer details
+[12/28/2016 2:40:10 PM][GetCardCode()] Starting Function 
+[12/28/2016 2:40:10 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/28/2016 2:40:11 PM][GetCardCode()] Completed With SUCCESS 
+[12/28/2016 2:40:11 PM][Main Program] After Getting the Customer details
+[12/28/2016 2:41:36 PM][Main Program] Current date 12/28/2016 doesn't match the reminder date 01/27/2017 to send email
+[12/28/2016 2:41:39 PM][Main Program] Ending Program
+[12/28/2016 2:41:45 PM][Main Program] Starting Program
+[12/28/2016 2:41:45 PM][Main Program] Before Getting the Customer details
+[12/28/2016 2:41:45 PM][GetCardCode()] Starting Function 
+[12/28/2016 2:41:45 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/28/2016 2:41:45 PM][GetCardCode()] Completed With SUCCESS 
+[12/28/2016 2:41:45 PM][Main Program] After Getting the Customer details
+[12/28/2016 2:41:45 PM][Main Program] Current date 12/28/2016 doesn't match the reminder date 01/27/2017 to send email
+[12/28/2016 2:41:45 PM][Main Program] Ending Program
+[12/27/2016 2:55:12 PM][Main Program] Starting Program
+[12/27/2016 2:55:12 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:55:12 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:55:12 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:55:12 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:55:12 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:55:12 PM][Main Program] Current date 12/27/2016 doesn't match the reminder date 12/28/2016 to send email
+[12/27/2016 2:55:12 PM][Main Program] Ending Program
+[12/27/2016 2:55:30 PM][Main Program] Starting Program
+[12/27/2016 2:55:31 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:55:31 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:55:31 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:55:31 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:55:31 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:55:48 PM][Main Program] Current date 12/27/2016 doesn't match the reminder date 12/28/2016 to send email
+[12/27/2016 2:55:48 PM][Main Program] Ending Program
+[12/27/2016 2:55:59 PM][Main Program] Starting Program
+[12/27/2016 2:55:59 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:55:59 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:55:59 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:55:59 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:55:59 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:55:59 PM][Main Program] Current date 12/27/2016 doesn't match the reminder date 12/28/2016 to send email
+[12/27/2016 2:55:59 PM][Main Program] Ending Program
+[12/27/2016 2:56:14 PM][Main Program] Starting Program
+[12/27/2016 2:56:15 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:56:15 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:56:15 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:56:15 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:56:15 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:56:37 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:56:37 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:56:37 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:56:39 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 2:56:41 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 2:56:41 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 2:56:41 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 2:56:41 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 2:56:41 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 2:56:41 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 2:56:41 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 2:56:41 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 2:56:44 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 2:56:46 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 2:56:47 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 2:56:47 PM][InsertEmailLog] Starting Function 
+[12/27/2016 2:56:47 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 2:56:47 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 2:56:47 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 2:56:49 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:56:49 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:56:49 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:56:49 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 2:56:50 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 2:56:50 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 2:56:50 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 2:56:50 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 2:56:50 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 2:56:50 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 2:56:50 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 2:56:50 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 2:56:52 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 2:56:53 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 2:56:54 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 2:56:54 PM][InsertEmailLog] Starting Function 
+[12/27/2016 2:56:54 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 2:56:54 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 2:56:54 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 2:56:58 PM][Main Program] Ending Program
+[12/27/2016 2:57:54 PM][Main Program] Starting Program
+[12/27/2016 2:57:54 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:57:54 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:57:54 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:57:54 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:57:54 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:57:54 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:57:54 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:57:54 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:57:54 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 2:57:54 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 2:57:54 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 2:57:54 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 2:57:54 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 2:57:54 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 2:57:54 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 2:57:54 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 2:57:54 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 2:57:57 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 2:57:57 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 2:57:57 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 2:57:57 PM][InsertEmailLog] Starting Function 
+[12/27/2016 2:57:57 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 2:57:57 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 2:57:57 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 2:57:57 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 2:57:57 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 2:57:57 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 2:57:57 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 2:57:57 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 2:57:57 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 2:57:57 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 2:57:57 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 2:57:57 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 2:57:57 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 2:57:57 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 2:57:57 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 2:58:00 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 2:58:00 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 2:58:00 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 2:58:00 PM][InsertEmailLog] Starting Function 
+[12/27/2016 2:58:00 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 2:58:00 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 2:58:00 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 2:58:00 PM][Main Program] Ending Program
+[12/27/2016 2:58:59 PM][Main Program] Starting Program
+[12/27/2016 2:58:59 PM][Main Program] Before Getting the Customer details
+[12/27/2016 2:58:59 PM][GetCardCode()] Starting Function 
+[12/27/2016 2:58:59 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 2:58:59 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 2:58:59 PM][Main Program] After Getting the Customer details
+[12/27/2016 2:59:38 PM][Main Program] Ending Program
+[12/27/2016 3:10:14 PM][Main Program] Starting Program
+[12/27/2016 3:10:14 PM][Main Program] Before Getting the Customer details
+[12/27/2016 3:10:14 PM][GetCardCode()] Starting Function 
+[12/27/2016 3:10:14 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 3:10:14 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 3:10:14 PM][Main Program] After Getting the Customer details
+[12/27/2016 3:10:14 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:10:14 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:10:14 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:10:14 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:14 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 3:10:14 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 3:10:14 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 3:10:14 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 3:10:14 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 3:10:14 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 3:10:14 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 3:10:14 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:16 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 3:10:16 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:16 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:16 PM][InsertEmailLog] Starting Function 
+[12/27/2016 3:10:16 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 3:10:16 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 3:10:16 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:16 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:10:16 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:10:16 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:10:16 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 3:10:16 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 3:10:16 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 3:10:16 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 3:10:16 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 3:10:16 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 3:10:16 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 3:10:16 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 3:10:16 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 3:10:19 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 3:10:19 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 3:10:19 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 3:10:19 PM][InsertEmailLog] Starting Function 
+[12/27/2016 3:10:19 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 3:10:19 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 3:10:19 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 3:10:19 PM][Main Program] Ending Program
+[12/27/2016 3:10:56 PM][Main Program] Starting Program
+[12/27/2016 3:10:56 PM][Main Program] Before Getting the Customer details
+[12/27/2016 3:10:56 PM][GetCardCode()] Starting Function 
+[12/27/2016 3:10:56 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 3:10:56 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 3:10:56 PM][Main Program] After Getting the Customer details
+[12/27/2016 3:10:56 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:10:56 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:10:56 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:10:56 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:56 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 3:10:56 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 3:10:56 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 3:10:56 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 3:10:56 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 3:10:56 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 3:10:56 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 3:10:56 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:59 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 3:10:59 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:59 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:59 PM][InsertEmailLog] Starting Function 
+[12/27/2016 3:10:59 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 3:10:59 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 3:10:59 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 3:10:59 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:10:59 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:10:59 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:10:59 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 3:10:59 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 3:10:59 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 3:10:59 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 3:10:59 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 3:10:59 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 3:10:59 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 3:10:59 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 3:10:59 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 3:11:03 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 3:11:03 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 3:11:03 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 3:11:03 PM][InsertEmailLog] Starting Function 
+[12/27/2016 3:11:03 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 3:11:03 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 3:11:03 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 3:11:03 PM][Main Program] Ending Program
+[12/27/2016 3:12:53 PM][Main Program] Starting Program
+[12/27/2016 3:12:53 PM][Main Program] Before Getting the Customer details
+[12/27/2016 3:12:53 PM][GetCardCode()] Starting Function 
+[12/27/2016 3:12:53 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 3:12:53 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 3:12:53 PM][Main Program] After Getting the Customer details
+[12/27/2016 3:12:53 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:12:53 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:12:53 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:12:53 PM][Main Program] Email Previously Sent for : rgopinath.chandran@gmail.com
+[12/27/2016 3:12:53 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:12:53 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:12:53 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:12:53 PM][Main Program] Email Previously Sent for : vivekrm60@gmail.com
+[12/27/2016 3:12:53 PM][Main Program] Ending Program
+[12/27/2016 3:14:30 PM][Main Program] Starting Program
+[12/27/2016 3:14:30 PM][Main Program] Before Getting the Customer details
+[12/27/2016 3:14:30 PM][GetCardCode()] Starting Function 
+[12/27/2016 3:14:30 PM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[12/27/2016 3:14:30 PM][GetCardCode()] Completed With SUCCESS 
+[12/27/2016 3:14:30 PM][Main Program] After Getting the Customer details
+[12/27/2016 3:14:30 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:14:30 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:14:31 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:14:31 PM][Main Program] Sending Mail to : rgopinath.chandran@gmail.com
+[12/27/2016 3:14:31 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 3:14:31 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 3:14:31 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 3:14:31 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 3:14:31 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 3:14:31 PM][CreateDefaultMailMessage] Adding From Email Address:  rgopinath.chandran@gmail.com
+[12/27/2016 3:14:31 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 3:14:31 PM][SendAutomatedEmail] Sending Email Messages to : rgopinath.chandran@gmail.com
+[12/27/2016 3:14:33 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 3:14:33 PM][Main Program] Mail Sent Successfully to : rgopinath.chandran@gmail.com
+[12/27/2016 3:14:33 PM][Main Program] Before Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 3:14:33 PM][InsertEmailLog] Starting Function 
+[12/27/2016 3:14:33 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 3:14:33 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 3:14:33 PM][Main Program] After Inserting to Email Log for : rgopinath.chandran@gmail.com
+[12/27/2016 3:14:33 PM][CheckDuplicateMailSending] Starting Function 
+[12/27/2016 3:14:33 PM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[12/27/2016 3:14:33 PM][CheckDuplicateMailSending] Completed With SUCCESS 
+[12/27/2016 3:14:33 PM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[12/27/2016 3:14:33 PM][SendAutomatedEmail] Sarting function
+[12/27/2016 3:14:33 PM][SendAutomatedEmail] Setting SMTP properties
+[12/27/2016 3:14:33 PM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[12/27/2016 3:14:33 PM][CreateDefaultMailMessage] Sarting function
+[12/27/2016 3:14:33 PM][CreateDefaultMailMessage] Assigning Email Properties..
+[12/27/2016 3:14:33 PM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[12/27/2016 3:14:33 PM][SendAutomatedEmail] Sending Email Message
+[12/27/2016 3:14:33 PM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[12/27/2016 3:14:35 PM][SendAutomatedEmail] Function completed with Success
+[12/27/2016 3:14:35 PM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[12/27/2016 3:14:35 PM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 3:14:35 PM][InsertEmailLog] Starting Function 
+[12/27/2016 3:14:35 PM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[12/27/2016 3:14:35 PM][InsertEmailLog] Completed With SUCCESS 
+[12/27/2016 3:14:35 PM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[12/27/2016 3:14:35 PM][Main Program] Ending Program
+[03/01/2017 11:52:13 AM][Main Program] Starting Program
+[03/01/2017 11:52:13 AM][Main Program] Before Getting the Customer details
+[03/01/2017 11:52:13 AM][GetCardCode()] Starting Function 
+[03/01/2017 11:52:13 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/01/2017 11:52:13 AM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 11:52:13 AM][Main Program] After Getting the Customer details
+[03/01/2017 11:52:13 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 11:52:13 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[03/01/2017 11:52:13 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 11:52:13 AM][Main Program] Sending Mail to : boorlas@gmail.com
+[03/01/2017 11:52:13 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 11:52:13 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 11:52:13 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 11:52:13 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 11:52:13 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 11:52:13 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[03/01/2017 11:52:13 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 11:52:13 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[03/01/2017 11:52:16 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 11:52:16 AM][Main Program] Mail Sent Successfully to : boorlas@gmail.com
+[03/01/2017 11:52:16 AM][Main Program] Before Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 11:52:16 AM][InsertEmailLog] Starting Function 
+[03/01/2017 11:52:16 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[03/01/2017 11:52:16 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 11:52:16 AM][Main Program] After Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 11:52:16 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 11:52:16 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[03/01/2017 11:52:16 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 11:52:16 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[03/01/2017 11:52:16 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 11:52:16 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 11:52:16 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 11:52:16 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 11:52:16 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 11:52:16 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[03/01/2017 11:52:16 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 11:52:16 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[03/01/2017 11:52:19 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 11:52:19 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[03/01/2017 11:52:19 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 11:52:19 AM][InsertEmailLog] Starting Function 
+[03/01/2017 11:52:19 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[03/01/2017 11:52:19 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 11:52:19 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 11:52:19 AM][Main Program] Ending Program
+[03/02/2017 12:00:01 AM][Main Program] Starting Program
+[03/02/2017 12:00:01 AM][Main Program] Before Getting the Customer details
+[03/02/2017 12:00:01 AM][GetCardCode()] Starting Function 
+[03/02/2017 12:00:01 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/02/2017 12:00:02 AM][GetCardCode()] Completed With SUCCESS 
+[03/02/2017 12:00:02 AM][Main Program] After Getting the Customer details
+[03/02/2017 12:00:02 AM][Main Program] Current date 03/02/2017 doesn't match the reminder date 03/31/2017 to send email
+[03/02/2017 12:00:02 AM][Main Program] Ending Program
+[03/02/2017 12:00:09 AM][Main Program] Starting Program
+[03/02/2017 12:00:09 AM][Main Program] Before Getting the Customer details
+[03/02/2017 12:00:09 AM][GetCardCode()] Starting Function 
+[03/02/2017 12:00:09 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/02/2017 12:00:09 AM][GetCardCode()] Completed With SUCCESS 
+[03/02/2017 12:00:09 AM][Main Program] After Getting the Customer details
+[03/02/2017 12:00:09 AM][Main Program] Current date 03/02/2017 doesn't match the reminder date 06/02/0001 to send email
+[03/02/2017 12:00:09 AM][Main Program] Ending Program
+[03/02/2017 12:00:20 AM][Main Program] Starting Program
+[03/02/2017 12:00:20 AM][Main Program] Before Getting the Customer details
+[03/02/2017 12:00:20 AM][GetCardCode()] Starting Function 
+[03/02/2017 12:00:20 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/02/2017 12:00:20 AM][GetCardCode()] Completed With SUCCESS 
+[03/02/2017 12:00:23 AM][Main Program] After Getting the Customer details
+[03/02/2017 12:00:49 AM][Main Program] Current date 03/02/2017 doesn't match the reminder date 03/01/2018 to send email
+[03/02/2017 12:00:49 AM][Main Program] Ending Program
+[03/01/2017 12:02:47 AM][Main Program] Starting Program
+[03/01/2017 12:02:47 AM][Main Program] Before Getting the Customer details
+[03/01/2017 12:02:47 AM][GetCardCode()] Starting Function 
+[03/01/2017 12:02:47 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/01/2017 12:02:47 AM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:02:49 AM][Main Program] After Getting the Customer details
+[03/01/2017 12:04:56 AM][Main Program] Current date 03/01/2017 doesn't match the reminder date 03/01/2018 to send email
+[03/01/2017 12:04:56 AM][Main Program] Ending Program
+[03/01/2018 12:05:10 AM][Main Program] Starting Program
+[03/01/2018 12:05:10 AM][Main Program] Before Getting the Customer details
+[03/01/2018 12:05:10 AM][GetCardCode()] Starting Function 
+[03/01/2018 12:05:10 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/01/2018 12:05:10 AM][GetCardCode()] Completed With SUCCESS 
+[03/01/2018 12:05:12 AM][Main Program] After Getting the Customer details
+[03/01/2017 12:09:22 AM][Main Program] Starting Program
+[03/01/2017 12:09:22 AM][Main Program] Before Getting the Customer details
+[03/01/2017 12:09:22 AM][GetCardCode()] Starting Function 
+[03/01/2017 12:09:22 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/01/2017 12:09:23 AM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 12:09:24 AM][Main Program] After Getting the Customer details
+[03/01/2017 12:09:34 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 12:09:34 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[03/01/2017 12:09:34 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 12:09:35 AM][Main Program] Sending Mail to : boorlas@gmail.com
+[03/01/2017 12:09:36 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 12:09:36 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 12:09:36 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 12:09:36 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 12:09:36 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 12:09:36 AM][CreateDefaultMailMessage] Adding From Email Address:  boorlas@gmail.com
+[03/01/2017 12:09:36 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 12:09:36 AM][SendAutomatedEmail] Sending Email Messages to : boorlas@gmail.com
+[03/01/2017 12:09:39 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 12:09:41 AM][Main Program] Mail Sent Successfully to : boorlas@gmail.com
+[03/01/2017 12:09:41 AM][Main Program] Before Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 12:09:42 AM][InsertEmailLog] Starting Function 
+[03/01/2017 12:09:42 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[03/01/2017 12:09:42 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 12:09:42 AM][Main Program] After Inserting to Email Log for : boorlas@gmail.com
+[03/01/2017 12:09:44 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 12:09:44 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[03/01/2017 12:09:44 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 12:09:45 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[03/01/2017 12:09:46 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 12:09:46 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 12:09:46 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 12:09:46 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 12:09:46 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 12:09:46 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[03/01/2017 12:09:46 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 12:09:46 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[03/01/2017 12:09:48 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 12:09:49 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[03/01/2017 12:09:49 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 12:09:50 AM][InsertEmailLog] Starting Function 
+[03/01/2017 12:09:50 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[03/01/2017 12:09:50 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 12:09:50 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 12:09:52 AM][Main Program] Ending Program
+[03/01/2017 1:27:27 AM][Main Program] Starting Program
+[03/01/2017 1:27:27 AM][Main Program] Before Getting the Customer details
+[03/01/2017 1:27:27 AM][GetCardCode()] Starting Function 
+[03/01/2017 1:27:27 AM][GetCardCode()] Calling Run_StoredProcedure() AB_AGM_SP001_GetCardCodes
+[03/01/2017 1:27:27 AM][GetCardCode()] Completed With SUCCESS 
+[03/01/2017 1:27:27 AM][Main Program] After Getting the Customer details
+[03/01/2017 1:27:27 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 1:27:27 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[03/01/2017 1:27:27 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 1:27:27 AM][Main Program] Sending Mail to : Thomas550i@gmail.com
+[03/01/2017 1:27:27 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 1:27:27 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 1:27:27 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 1:27:27 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 1:27:27 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 1:27:27 AM][CreateDefaultMailMessage] Adding From Email Address:  Thomas550i@gmail.com
+[03/01/2017 1:27:27 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 1:27:27 AM][SendAutomatedEmail] Sending Email Messages to : Thomas550i@gmail.com
+[03/01/2017 1:27:30 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 1:27:30 AM][Main Program] Mail Sent Successfully to : Thomas550i@gmail.com
+[03/01/2017 1:27:30 AM][Main Program] Before Inserting to Email Log for : Thomas550i@gmail.com
+[03/01/2017 1:27:30 AM][InsertEmailLog] Starting Function 
+[03/01/2017 1:27:30 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[03/01/2017 1:27:30 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 1:27:30 AM][Main Program] After Inserting to Email Log for : Thomas550i@gmail.com
+[03/01/2017 1:27:30 AM][CheckDuplicateMailSending] Starting Function 
+[03/01/2017 1:27:30 AM][CheckDuplicateMailSending] Calling Run_StoredProcedure() AB_AGM_SP002_CheckDuplicateMailSending
+[03/01/2017 1:27:30 AM][CheckDuplicateMailSending] Completed With SUCCESS 
+[03/01/2017 1:27:30 AM][Main Program] Sending Mail to : vivekrm60@gmail.com
+[03/01/2017 1:27:30 AM][SendAutomatedEmail] Sarting function
+[03/01/2017 1:27:30 AM][SendAutomatedEmail] Setting SMTP properties
+[03/01/2017 1:27:30 AM][SendAutomatedEmail] Calling Function CreateDefaultMailMessage()
+[03/01/2017 1:27:30 AM][CreateDefaultMailMessage] Sarting function
+[03/01/2017 1:27:30 AM][CreateDefaultMailMessage] Assigning Email Properties..
+[03/01/2017 1:27:30 AM][CreateDefaultMailMessage] Adding From Email Address:  vivekrm60@gmail.com
+[03/01/2017 1:27:30 AM][SendAutomatedEmail] Sending Email Message
+[03/01/2017 1:27:30 AM][SendAutomatedEmail] Sending Email Messages to : vivekrm60@gmail.com
+[03/01/2017 1:27:32 AM][SendAutomatedEmail] Function completed with Success
+[03/01/2017 1:27:32 AM][Main Program] Mail Sent Successfully to : vivekrm60@gmail.com
+[03/01/2017 1:27:32 AM][Main Program] Before Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 1:27:32 AM][InsertEmailLog] Starting Function 
+[03/01/2017 1:27:32 AM][InsertEmailLog] Calling Run_StoredProcedure() AB_AGM_SP003_InsertAGMLog
+[03/01/2017 1:27:32 AM][InsertEmailLog] Completed With SUCCESS 
+[03/01/2017 1:27:32 AM][Main Program] After Inserting to Email Log for : vivekrm60@gmail.com
+[03/01/2017 1:27:32 AM][Main Program] Ending Program
